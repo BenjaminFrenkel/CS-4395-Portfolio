@@ -9,29 +9,43 @@ A paper giving a broad overview of NLP [here](Assignment%201%20-%20Overview%20of
 
 You can see the code [here](Assignment%202%20-%20Text%20Processing%20with%20Python/Text%20Processing_bvf180000.py)
 
-## Assignment 3 - 
+## Assignment 3 - Word Guess Game
+
+You can see the code [here](Assignment%203%20-%20Word%20Guess%20Game/Word%20Guess%20Game.py)
 
 
-## Assignment 4 - 
+## Assignment 4 - WordNet
+
+You can see the code [here](Assignment%204%20-%20WordNet/WordNet.ipynb)
 
 
-## Assignment 5 - 
+## Assignment 5 - N-grams
+You can see the code to build the language models[here](Assignment%205%20-%20N-grams/BuildLanguageModels.py)
+
+You can see the code to evaluate the language models[here](Assignment%205%20-%20N-grams/EvaluateLanguageModels.py)
 
 
-## Assignment 6 - 
+## Assignment 6 - Web Crawler
+You can see the code that builds the knowledge base [here](Assignment%206%20-%20Web%20Crawler/CS4395_WebCrawler/BuildKB.py)
+
+You can see the code that scrapes a given webpage [here](Assignment%206%20-%20Web%20Crawler/CS4395_WebCrawler/ScrapeWebpage.py)
+
+## Assignment 7 - Parsing Sentences
+You can see the code [here]()
 
 
-## Assignment 7 - 
+## Assignment 8 - ACL Paper Summary
+You can see the ACL paper summary [here](Assignment%208%20-%20ACL%20Paper%20Summary/ACL%20Paper%20Summary.pdf)
 
 
-## Assignment 8 - 
+## Assignment 9 - Text Classification
+You can see the code [here](Assignment%209%20-%20Text%20Classification/TextClassification1.ipynb)
 
 
-## Assignment 9 - 
+## Assignment 10 - Chatbot
+You can see the code [here](Assignment%2010%20-%20Chatbot/CS4395_Chatbot/PokerChatbot.py)
 
 
-## Assignment 10 - 
-
-
-## Assignment 11 - 
+## Assignment 11 - Text Classification 2
+You can see the code [here](Assignment%2011%20-%20Text%20Classification 2/Text%20Classification%202.ipynb)
 
