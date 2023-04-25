@@ -20,9 +20,9 @@ You can see the code [here](Assignment%204%20-%20WordNet/WordNet.ipynb)
 
 
 ## Assignment 5 - N-grams
-You can see the code to build the language models[here](Assignment%205%20-%20N-grams/BuildLanguageModels.py)
+You can see the code to build the language models [here](Assignment%205%20-%20N-grams/BuildLanguageModels.py)
 
-You can see the code to evaluate the language models[here](Assignment%205%20-%20N-grams/EvaluateLanguageModels.py)
+You can see the code to evaluate the language models [here](Assignment%205%20-%20N-grams/EvaluateLanguageModels.py)
 
 
 ## Assignment 6 - Web Crawler
@@ -47,5 +47,5 @@ You can see the code [here](Assignment%2010%20-%20Chatbot/CS4395_Chatbot/PokerCh
 
 
 ## Assignment 11 - Text Classification 2
-You can see the code [here](Assignment%2011%20-%20Text%20Classification 2/Text%20Classification%202.ipynb)
+You can see the code [here](Assignment%2011%20-%20Text%20Classification%202/Text%20Classification%202.ipynb)
 
