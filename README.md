@@ -26,9 +26,9 @@ You can see the code to evaluate the language models [here](Assignment%205%20-%2
 
 
 ## Assignment 6 - Web Crawler
-You can see the code that builds the knowledge base [here](Assignment%206%20-%20Web%20Crawler/CS4395_WebCrawler/BuildKB.py)
+You can see the code that builds the knowledge base [here](Assignment%206%20-%20Web%20Crawler/BuildKB.py)
 
-You can see the code that scrapes a given webpage [here](Assignment%206%20-%20Web%20Crawler/CS4395_WebCrawler/ScrapeWebpage.py)
+You can see the code that scrapes a given webpage [here](Assignment%206%20-%20Web%20Crawler/ScrapeWebpage.py)
 
 ## Assignment 7 - Parsing Sentences
 You can see the code [here]()
@@ -43,9 +43,14 @@ You can see the code [here](Assignment%209%20-%20Text%20Classification/TextClass
 
 
 ## Assignment 10 - Chatbot
-You can see the code [here](Assignment%2010%20-%20Chatbot/CS4395_Chatbot/PokerChatbot.py)
+You can see the code [here](Assignment%2010%20-%20Chatbot/PokerChatbot.py)
 
 
 ## Assignment 11 - Text Classification 2
 You can see the code [here](Assignment%2011%20-%20Text%20Classification%202/Text%20Classification%202.ipynb)
+
+
+
+## Summary:
+Through taking this class I've learned multiple skills in NLP. 
 
