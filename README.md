@@ -32,7 +32,7 @@ You can see the code [here](Assignment%203%20-%20Word%20Guess%20Game/Word%20Gues
 
 ## Assignment 4 - WordNet
 
-You can see the code [here](Assignment%204%20-%20WordNet/WordNet.ipynb)
+You can see the code [here](Assignment%204%20-%20WordNet/WordNet.pdf)
 
 
 ## Assignment 5 - N-grams
