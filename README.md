@@ -1,6 +1,22 @@
 # CS-4395-Portfolio
  Contains all assignments for this class
 
+ ## Summary:
+Through taking this class I've learned multiple skills in NLP. This was a very interesting class and I enjoyed learning about NLP. Right now I do not know what my future plans in this field are but time will tell. I am not currently looking for employment oppurtunities right now.
+
+## Skills:
+Technical Skills:
+- Programming in Python
+- Working with NLP libraries like WordNet, 
+- Machine learning techniques such as Naïve Bayes, Logistic Regression, Neural Networks
+
+Soft Skills:
+- Communicating with team members
+- Time Management
+- Project Management 
+- Ability to work in a team
+
+
 ## Assignment 1 - Overview of NLP
 
 A paper giving a broad overview of NLP [here](Assignment%201%20-%20Overview%20of%20NLP/Overview%20of%20NLP.pdf)
@@ -51,6 +67,4 @@ You can see the code [here](Assignment%2011%20-%20Text%20Classification%202/Text
 
 
 
-## Summary:
-Through taking this class I've learned multiple skills in NLP. 
 
